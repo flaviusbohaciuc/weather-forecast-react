@@ -1,11 +1,11 @@
 import React from "react";
+import Sun from "./component/sun";
 
-const WeatherForecast = () => {
+const WeatherForecast: React.FC = () => {
   return (
-    <div>
-      <h1>
-        Weather Forecast
-      </h1>
+    <div className="WeatherForecast">
+      <h1>Weather Forecast</h1>
+      <Sun />
     </div>
   );
 };
