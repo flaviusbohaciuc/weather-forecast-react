@@ -1,5 +1,5 @@
 $color-white: #ffffff;
-$color-picton-blue: #2eb5e5;
+$color-dodger-blue: #00B4FF;
 $color-broom: #ffeb19;
 $color-paris-daisy: #fff375;
 
@@ -13,10 +13,10 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  background-color: $color-picton-blue;
+  background-color: $color-dodger-blue;
 }
 
 .wrapper {
   position: relative;
-  height: 200px;
+  height: 250px;
 }
