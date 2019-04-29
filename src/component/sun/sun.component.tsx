@@ -3,7 +3,7 @@ import "./sun.style.scss";
 
 const Sun = () => {
   return (
-    <div className="wrapper-sun">
+    <div className="wrapper">
       <div className="sun">
         <div className="ray_box">
             <div className="ray ray1"></div>
